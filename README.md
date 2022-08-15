@@ -19,5 +19,5 @@ One may realize from above that both rationalism and empiricism are important mo
 ![](img/deepWorkExample.jpeg)
 
 ### Problem Solving
-![](img/PolyaHowToSolveItGraphic.jpeg)
+![](img/polyaHowToSolveItGraphic.jpeg)
 
