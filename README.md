@@ -13,9 +13,11 @@ One may realize from above that both rationalism and empiricism are important mo
 ### Learning Pedagogy
 
 #### Spatial Repetition 
+![](img/SpatialRepetition.png)
 
 #### Deep Work
+![](img/deepWorkExample.jpeg)
 
 ### Problem Solving
-
+![](img/PolyaHowToSolveIt.jpeg)
 
