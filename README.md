@@ -44,7 +44,9 @@ Advice: listen to what the the Hungarian US immigrants of the early 20th century
 *Incerto* by Nassim Nicholas Taleb <br>
 *The Beginning of Infinity* by David Deutsch <br>
 *The Fabric of Reality* by David Deutsch <br>
-
+["The Beginning of Infinity, Part 1" by Naval](https://youtu.be/jEmJIA0pEf0) <br>
+["The Beginning of Infinity, Part 1" by Naval](https://youtu.be/0EPuJZWIBJk) <br>
+["Rationalism vs Empiricism" by Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/rationalism-empiricism/) <br>
 
 
 
