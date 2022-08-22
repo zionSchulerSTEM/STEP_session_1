@@ -39,11 +39,12 @@ Problem solving is an open-ended, creative endeavor. The game of science only en
 Advice: listen to what the the Hungarian US immigrants of the early 20th century had to say about math and science. See [the Martians]( https://en.wikipedia.org/wiki/The_Martians_(scientists) )
 
 ## Resources / References
-*The Logic of Scientific Discovery* by Karl Popper
-*Objective Knowledge: An Evolutionary Approach* by Karl Popper
-*Incerto* by Nassim Nicholas Taleb
-*The Beginning of Infinity* by David Deutsch
-*The Fabric of Reality* by David Deutsch
+*The Logic of Scientific Discovery* by Karl Popper <br>
+*Objective Knowledge: An Evolutionary Approach* by Karl Popper <br>
+*Incerto* by Nassim Nicholas Taleb <br>
+*The Beginning of Infinity* by David Deutsch <br>
+*The Fabric of Reality* by David Deutsch <br>
+
 
 
 
