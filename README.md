@@ -1,5 +1,5 @@
 # STEP session 1
-
+# Epistemology, Learning Pedagogy, Problem Solving
 ## The big picture
 All knowledge is conjectural (an educated guess). The best theories (like the theory of evolution, theory of computation, quantum theory, etc) are constructed so that they make specific guesses/descriptions of something that can either be right or wrong (ie falsifiable) and are not easy to vary. The game of science is a never ending game in which we search for more accurate descriptions of the phenomanae we can see around us. 
 
