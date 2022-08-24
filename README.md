@@ -1,5 +1,4 @@
 # STEP session 1
-# Epistemology, Learning Pedagogy, Problem Solving
 ## The big picture
 All knowledge is conjectural (an educated guess). The best theories (like the theory of evolution, theory of computation, quantum theory, etc) are constructed so that they make specific guesses/descriptions of something that can either be right or wrong (ie falsifiable) and are not easy to vary. The game of science is a never ending game in which we search for more accurate descriptions of the phenomanae we can see around us. 
 
@@ -7,7 +6,7 @@ An effective learning pedagogy (system of learning) involves creating blocks of 
 
 Systematic apporaches are easier to troubleshoot / error correct than unorganized appraoches. By dividing the problem solving process into multiple stages and emphasizing critical thinking about what is going on in each step, students can get an idea of how to proceed under uncertainty and how to ask specific questions to address misunderstandings with a problem.
 
-## Epistemology, Learning Pedagogy, and Problem Solving
+# Epistemology, Learning Pedagogy, and Problem Solving
 This session is an introductory session that is meant to give you some of the most important fundamentals that any scientist, mathematician, and engineer SHOULD know but often times do not know. Although one need not know some of these concepts in order to do interesting work in the quantatative realm, having a robust theory of knowledge, an evidence based learning strategy, and a systematic approach to problem solving can help streamline any quantatative endeavor. Moreover, knowledge of these fundamentals helps one accuractely communicate their work to broad audiences and provide insight on potential shortcomings or extensions of an idea/project. 
 
 ## Epistemology
